@@ -1,4 +1,4 @@
-<h3 align="left"><b>🔍 About me</b></h3>
+<h3 align="left"><b>🔍  About me</b></h3>
 
 ---
 
@@ -7,9 +7,11 @@
 - 🌱 지금은 함께 공부한 동기들과 신규 프로젝트를 하기 위해 Typescript와 TypeORM을 공부하고 있습니다.
 - 👯 함께 일하는 동료들을 이해시키고 공유하고 더 좋은 방법을 피드백 받는것을 중요하게 생각합니다.
 - 🤔 상황에 맞게 효율적으로 코드를 작성하고 리뷰하는 것을 좋아하며 직관적이고 명확하게 코드를 작성하는 것을 추구합니다.
+
+</br>
 </br>
 
-<h3><b>🗂 Tech Stack</b></h3>
+<h3><b>🗂  Tech Stack</b></h3>
 
 ---
 
@@ -22,11 +24,11 @@
 <img src="https://img.shields.io/badge/Sequelize-2B037A?style=flat-square&logo=Sequelize&logoColor=white"/></a> &nbsp
 </p>
 
-</br>
+<!-- </br> -->
 
 - [ Knowledgeable ]
 <p align="left">
-<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&amp;logoColor=white&amp;logo=TypeScript"/>
+<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&amp;logoColor=white&amp;logo=TypeScript"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PM2-232F3E?style=flat-square&logo=PM2&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
@@ -34,7 +36,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 </p>
 
-</br>
+<!-- </br> -->
 
 - [ Etc ]
 <p align="left">
@@ -44,4 +46,10 @@
 </p>
 
 </br>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Link&show_icons=true&theme=city_lights) -->
+</br>
+
+<h3><b>🌻  My GitHub Stats </b></h3>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Link&show_icons=true&theme=city_lights)
