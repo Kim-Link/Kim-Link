@@ -1,5 +1,5 @@
 <h3 align="right">
-    <a href="mailto:"thinkcrash@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:thinkcrash@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://kim-link.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubBlog-0190ec?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </h3>
 
